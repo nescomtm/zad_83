@@ -1,0 +1,26 @@
+{
+  "name": "zad_83",
+  "version": "1.0.0",
+  "description": "\"# zad_83\"",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nescomtm/zad_83.git"
+  },
+  "author": "TM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nescomtm/zad_83/issues"
+  },
+  "homepage": "https://github.com/nescomtm/zad_83#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
