@@ -1,4 +1,4 @@
 ﻿var name = prompt('Wpisz Swoje Imię');
-alert('Witaj, ' + name)
+alert('Witaj, ' + name);
 
 console.log('Witaj, ' + name);
